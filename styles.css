@@ -45,6 +45,11 @@ body {
   color: #fff1e8;
 }
 
+.content a.disabled {
+	color: #1b6492;
+	pointer-events: none;
+}
+
 .content hr {
   border-top: 0.19em solid #fff1e8;
   border-bottom: 0;
